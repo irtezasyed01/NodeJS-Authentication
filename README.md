@@ -1,2 +1,2 @@
-# express-app
+# NodeJS Authentication App with Mongoose DB and expressJS
  
